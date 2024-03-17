@@ -13,7 +13,7 @@ Welcome to the Spark SQL Testing Repository! This repository provides tools and 
 - print_test_result: Display test results with pass/fail status and optional error raising.
 
 ## Getting Started
-- Copy the code from main.sql
+- Copy the code from [main.sql](main.sql)
 
 ## Usage
 ### Unit Testing
