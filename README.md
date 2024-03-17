@@ -24,7 +24,7 @@ select assert(1,2, 'Values do not match')
 -- Values do not match	1:2
 ```
 
-### Multi Test Casues
+### Multi Test Cases
 - Create test suites covering various scenarios
 - Raise error after all test suits executed
 ```
