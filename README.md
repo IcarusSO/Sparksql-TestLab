@@ -16,7 +16,7 @@ Welcome to the Spark SQL Testing Repository! This repository provides tools and 
 - Copy the code from main.sql
 
 ## Usage
-### Immediate Test
+### Unit Testing
 - Immediate check the data and immediate stop if something is wrong
 ```
 select assert(1,2, 'Values do not match')
